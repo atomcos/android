@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">MathQuiz</string>
+    <string name="app_title">Math Quiz</string>
+    <string name="result_title">Your Result and Score</string>
+    <string name="main_dot">.</string>
+    <string name="main_minus">-</string>
+    <string name="main_generate">Generate</string>
+    <string name="main_validate">Validate</string>
+    <string name="main_clear">Clear</string>
+    <string name="main_score">Score</string>
+    <string name="main_finish">Finish</string>
+    <string name="result_register">Register</string>
+    <string name="result_score">Score</string>
+    <string name="result_show">Show</string>
+    <string name="result_back">Back</string>
+    <string name="err_id_invalide_number">Invalid Number</string>
+    <string name="err_id_empty_input">Please input answer</string>
+    <string name="result_show_all">All</string>
+    <string name="result_show_right">Right</string>
+    <string name="result_show_wrong">Wrong</string>
+    <string name="result_show_sort_a">Sort A</string>
+    <string name="result_show_sort_d">Sort D</string>
+</resources>
